@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "slider-webpart",
+    "libraryId": "38f069c4-0201-46ca-a3df-b7bc73c13f99",
+    "environment": "spo"
+  }
+}

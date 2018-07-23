@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "slider-webpart-client-side-solution",
+    "id": "38f069c4-0201-46ca-a3df-b7bc73c13f99",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/slider-webpart.sppkg"
+  }
+}

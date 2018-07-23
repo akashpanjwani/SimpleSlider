@@ -1,0 +1,10 @@
+.item img{
+    transform: none!important;
+    min-width: -webkit-fill-available!important;
+}
+#myCarousel{
+    height:100%!important;
+}
+.carousel-inner>.item.active, .carousel-inner>.item.next.left, .carousel-inner>.item.prev.right{
+    width: 100%!important;
+}
